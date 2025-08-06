@@ -53,6 +53,8 @@ Microcontrollers with MicroPython and Raspberry Pi
 ✅ Advantages of Python
 Simple and Readable Syntax
 
+✅ Advantages of Python
+
 Large Standard Library and Ecosystem
 
 Cross-platform Compatibility
